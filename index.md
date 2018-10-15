@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-<h1> This is going to be a place where I will collect all my crazy ideas for writing Medium articles
+<h1> This is going to be a place where I will collect all my crazy ideas for writing Medium articles<h1>
 ## Header 2
 ### Header 3
 
